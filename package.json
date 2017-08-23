@@ -1,0 +1,26 @@
+{
+  "name": "webext-extension",
+  "version": "1.0.0",
+  "description": "A JS module for writing cross-browser extensions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "WebExtension",
+    "Extension",
+    "Chrome",
+    "Firefox",
+    "api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluelovers/webext-extension.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bluelovers/webext-extension/issues"
+  },
+  "homepage": "https://github.com/bluelovers/webext-extension#readme"
+}
