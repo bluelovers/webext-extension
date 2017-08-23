@@ -1,6 +1,6 @@
 {
   "name": "webext-extension",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A JS module for writing cross-browser extensions.",
   "main": "index.js",
   "scripts": {
